@@ -13,5 +13,14 @@ public class JavaRush_17 {
         String s8 = new String("Aaa");
         String s9 = new String("Aaa");
         String s10 = new String("Aaa");
+        
+        int[] array1 = new int[1];
+        int[] array2 = new int[2];
+        int[] array3 = new int[3];
+        int[] array4 = new int[4];
+        int[] array5 = new int[5];
+
+        Scanner console = new Scanner("Input");
+        Scanner scanner = new Scanner("Output");
     }
 }
